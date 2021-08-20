@@ -20,7 +20,7 @@ yarn add -D eslint-plugin-react@^7.24.0
 yarn add -D eslint-plugin-react-hooks@^4.2.0
 yarn add -D jest@^27.0.6
 yarn add -D prettier@^2.3.2
-yarn add -D @bearsoftware/ui-eslint-config@1.0.0
+yarn add -D @bearsoftware/ui-eslint-config@1.0.1
 ```
 
 or
@@ -41,7 +41,7 @@ npm i --save-dev eslint-plugin-react@^7.24.0
 npm i --save-dev eslint-plugin-react-hooks@^4.2.0
 npm i --save-dev jest@^27.0.6
 npm i --save-dev prettier@^2.3.2
-npm i --save-dev @bearsoftware/ui-eslint-config@1.0.0
+npm i --save-dev @bearsoftware/ui-eslint-config@1.0.1
 ```
 
 ### package.json
@@ -62,7 +62,7 @@ npm i --save-dev @bearsoftware/ui-eslint-config@1.0.0
 
 ```js
    "devDependencies": {
-    "@bearsoftware/ui-eslint-config": "1.0.0",
+    "@bearsoftware/ui-eslint-config": "1.0.1",
     "@typescript-eslint/eslint-plugin": "^4.29.2",
     "eslint": "^7.32.0",
     "eslint-config-airbnb": "^18.2.1",
